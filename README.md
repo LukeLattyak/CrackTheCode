@@ -1,5 +1,7 @@
 # CrackTheCode
 AP Computer Science A Term 1 Assignment 3
+
+
 In this assignment, you will be creating a program that requires a secret code to “unlock.” The program should first welcome the user and ask the user to input his/her name. Then the program will greet the user using the entered name.
 
 In order to “crack the code,” the user must input three integer numbers which satisfy the following conditions:
